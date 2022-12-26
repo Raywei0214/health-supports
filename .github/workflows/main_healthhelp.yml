@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'healthhelp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DBC5A03134F849FFB05037A27BED9CAE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5CF0F59CFBF3499DA9B18BBF7BD01202 }}
